@@ -1,0 +1,7 @@
+C:\Dev\TestEnv\MyTrialApp\TrailAppDemo\UI\TrialApp.UI\obj\Release\net7.0-windows\TrialApp.UI.csproj.AssemblyReference.cache
+C:\Dev\TestEnv\MyTrialApp\TrailAppDemo\UI\TrialApp.UI\obj\Release\net7.0-windows\TrialApp.UI.Form1.resources
+C:\Dev\TestEnv\MyTrialApp\TrailAppDemo\UI\TrialApp.UI\obj\Release\net7.0-windows\TrialApp.UI.csproj.GenerateResource.cache
+C:\Dev\TestEnv\MyTrialApp\TrailAppDemo\UI\TrialApp.UI\obj\Release\net7.0-windows\TrialApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TestEnv\MyTrialApp\TrailAppDemo\UI\TrialApp.UI\obj\Release\net7.0-windows\TrialApp.UI.AssemblyInfoInputs.cache
+C:\Dev\TestEnv\MyTrialApp\TrailAppDemo\UI\TrialApp.UI\obj\Release\net7.0-windows\TrialApp.UI.AssemblyInfo.cs
+C:\Dev\TestEnv\MyTrialApp\TrailAppDemo\UI\TrialApp.UI\obj\Release\net7.0-windows\TrialApp.UI.csproj.CoreCompileInputs.cache

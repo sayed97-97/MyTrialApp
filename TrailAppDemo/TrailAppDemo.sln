@@ -3,9 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TrialApp.UI", "TrialApp.UI", "{50DC0A86-B410-4888-AD3B-11341441E3E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrialApp.UI", "UI\TrialApp.UI\TrialApp.UI.csproj", "{79131052-1602-491E-ACBE-AC0E2CED78D2}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79131052-1602-491E-ACBE-AC0E2CED78D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79131052-1602-491E-ACBE-AC0E2CED78D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79131052-1602-491E-ACBE-AC0E2CED78D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79131052-1602-491E-ACBE-AC0E2CED78D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{79131052-1602-491E-ACBE-AC0E2CED78D2} = {50DC0A86-B410-4888-AD3B-11341441E3E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0BB86FEE-95EA-469A-B40B-EBED8F78AC30}
